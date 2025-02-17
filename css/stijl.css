@@ -1,0 +1,33 @@
+#hoofding {
+	background-color: #61697b;
+	color:white;
+}
+footer{
+	background-color: #61697b;
+}
+.titel{
+	padding-top:70px;
+	padding-bottom:50px;
+	color:#61697b;
+}
+
+.titel-groot{
+
+	font-size:50px;
+	font-weight:bold;
+}
+.titel-klein{
+	font-size:25px;
+}
+.kampen-link{
+	text-decoration:none;
+	font-size:25px;
+}
+
+.foto-kaart-titel{
+	font-weight:bold;
+}
+
+.mt-6{
+	margin-top:200px;
+}
